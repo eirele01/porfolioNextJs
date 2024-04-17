@@ -44,7 +44,7 @@ const serviceData = [
   },
   {
     Icon: RxAvatar,
-    title: "Website Maintenance Support",
+    title: "Website Maintenance",
     description: "",
   },
   {
@@ -89,7 +89,7 @@ const ServiceSlider = () => {
             </div>
 
             {/* arrow */}
-            <div className="text-2xl">
+            <div className="text-2xl" to="/contact">
               <RxArrowTopRight
                 className="group-hover:rotate-45 group-hover:text-accent transition-all duration-300"
                 aria-hidden
