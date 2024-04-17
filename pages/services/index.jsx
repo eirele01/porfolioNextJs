@@ -31,8 +31,7 @@ const Services = () => {
               exit="hidden"
               className="mb-4 max-w-[400px] mx-auto lg:mx-0"
             >
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
-              tempora eligendi, quisquam tempore sint reiciendis.
+              As a skilled web developer, I offer a range of services tailored to meet your digital needs. From crafting visually stunning and user-friendly websites to developing robust web applications, I bring expertise in front-end and back-end technologies to deliver exceptional results. My services include:
             </motion.p>
           </div>
 
