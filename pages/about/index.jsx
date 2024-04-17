@@ -48,7 +48,7 @@ export const aboutData = [
     title: "awards",
     info: [
       {
-        title: "TESDA Web Development Level 3 - Top Achiever",
+        title: "TESDA AMA of College Web Development Level 3 - Top Achiever",
         stage: "2019 - 2020",
       },
     ],
@@ -57,16 +57,12 @@ export const aboutData = [
     title: "experience",
     info: [
       {
-        title: "UX/UI Designer - XYZ Company",
-        stage: "2012 - 2023",
+        title: "Freelancer",
+        stage: "2020 - Present",
       },
       {
-        title: "Web Developer - ABC Agency",
-        stage: "2010 - 2012",
-      },
-      {
-        title: "Intern - DEF Corporation",
-        stage: "2008 - 2010",
+        title: "Seafare - Chrisness Shipping line",
+        stage: "2015 - 2018",
       },
     ],
   },
@@ -74,16 +70,16 @@ export const aboutData = [
     title: "credentials",
     info: [
       {
-        title: "Web Development - ABC University, LA, CA",
-        stage: "2011",
+        title: "Web Development Level 3 - TESDA AMA of College",
+        stage: "2019 - 2020",
       },
       {
-        title: "Computer Science Diploma - AV Technical Institute",
-        stage: "2009",
+        title: "Full Stack Web Development - Udemy ",
+        stage: "2020",
       },
       {
-        title: "Certified Graphic Designer - ABC Institute, Los Angeles, CA",
-        stage: "2006",
+        title: "Bachelor of Science in Marine Transportation - NAMEI Polytechnic Institute",
+        stage: "2011 - 2015",
       },
     ],
   },
