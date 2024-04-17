@@ -44,6 +44,7 @@
     }
   ],
   "scripts": {
+    "deploy": "next build && gh-pages -d out",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
