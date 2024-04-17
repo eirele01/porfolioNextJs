@@ -44,7 +44,7 @@ const serviceData = [
   },
   {
     Icon: RxAvatar,
-    title: "Website Maintenance and Support",
+    title: "Website Maintenance & Support",
     description: "",
   },
   {
