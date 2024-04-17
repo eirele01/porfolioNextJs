@@ -89,11 +89,10 @@ const ServiceSlider = () => {
             </div>
 
             {/* arrow */}
-            <div className="text-2xl" to="/contact">
+            <div className="text-2xl" href="https://eirele01.github.io/porfolioNextJs/contact">
               <RxArrowTopRight
                 className="group-hover:rotate-45 group-hover:text-accent transition-all duration-300"
                 aria-hidden
-                href="https://eirele01.github.io/porfolioNextJs/contact"
               />
             </div>
           </div>
