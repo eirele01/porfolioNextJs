@@ -20,22 +20,22 @@ const serviceData = [
   {
     Icon: RxPencil2,
     title: "Website Design and Development",
-    description: "I specialize in designing and developing responsive websites that captivate audiences and drive engagement.",
+    description: "I specialize in designing and developing responsive websites that captivate audiences.",
   },
   {
     Icon: RxDesktop,
     title: "Custom Web Applications",
-    description: " I create custom web applications tailored to your unique requirements.I leverage cutting-edge technologies to build powerful and scalable applications that streamline your business processes.",
+    description: " I create custom web applications tailored to your unique requirements.",
   },
   {
     Icon: RxCode,
     title: "Front-end Development",
-    description: "With expertise in HTML, CSS, and JavaScript frameworks like React.js and Vue.js, I ensure your website or application offers a seamless user experience across devices and browsers.",
+    description: "With my expertise I ensure your website or application offers a seamless user experience across devices.",
   },
   {
     Icon: RxCode,
     title: "Back-end Development",
-    description: "I excel in back-end development using Node.js, PHP, MYSql and other frameworks to build robust server-side solutions.",
+    description: "I excel in back-end development using Node.js, PHP, MYSql and other frameworks to build robust server-side.",
   },
   {
     Icon: RxArchive,
@@ -45,7 +45,7 @@ const serviceData = [
   {
     Icon: RxAvatar,
     title: "Website Maintenance and Support",
-    description: "Beyond initial development, I offer ongoing website maintenance and support services to ensure your digital assets remain secure, up-to-date, and optimized for performance.",
+    description: "I offer ongoing website maintenance and support services to ensure your digital assets remain secure, up-to-date, and optimized.",
   },
   {
     Icon: RxAvatar,
@@ -89,7 +89,7 @@ const ServiceSlider = () => {
             </div>
 
             {/* arrow */}
-            <div className="text-3xl">
+            <div className="text-2xl">
               <RxArrowTopRight
                 className="group-hover:rotate-45 group-hover:text-accent transition-all duration-300"
                 aria-hidden
