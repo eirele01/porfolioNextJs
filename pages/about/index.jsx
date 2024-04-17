@@ -48,8 +48,8 @@ export const aboutData = [
     title: "awards",
     info: [
       {
-        title: "TESDA AMA of College Web Development Level 3 - Top Achiever",
-        stage: "2019 - 2020",
+        title: "AMA of College Web Development Level 3 - Top Achiever",
+        stage: "2020",
       },
     ],
   },
@@ -58,11 +58,11 @@ export const aboutData = [
     info: [
       {
         title: "Freelancer",
-        stage: "2020 - Present",
+        stage: "2020  -  2024",
       },
       {
-        title: "Seafare - Chrisness Shipping line",
-        stage: "2015 - 2018",
+        title: "Seafare",
+        stage: "2015  -  2018",
       },
     ],
   },
@@ -70,7 +70,7 @@ export const aboutData = [
     title: "credentials",
     info: [
       {
-        title: "Web Development Level 3 - TESDA AMA of College",
+        title: "Web Development Level 3 - AMA of College",
         stage: "2019 - 2020",
       },
       {
@@ -78,7 +78,7 @@ export const aboutData = [
         stage: "2020",
       },
       {
-        title: "Bachelor of Science in Marine Transportation - NAMEI Polytechnic Institute",
+        title: "BSMT - NAMEI Polytechnic Institute",
         stage: "2011 - 2015",
       },
     ],
