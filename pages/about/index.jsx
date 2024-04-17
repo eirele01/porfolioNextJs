@@ -13,6 +13,7 @@ import {
   SiAdobephotoshop,
   SiAdobexd,
   SiFramer,
+  SiCanva,
   SiNextdotjs,
 } from "react-icons/si";
 
@@ -39,7 +40,7 @@ export const aboutData = [
       },
       {
         title: "UI/UX Design",
-        icons: [FaFigma, SiAdobexd, SiAdobephotoshop],
+        icons: [FaFigma, SiCanva, SiAdobephotoshop],
       },
     ],
   },
