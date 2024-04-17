@@ -29,8 +29,7 @@ const Work = () => {
               exit="hidden"
               className="mb-4 max-w-[400px] mx-auto lg:mx-0"
             >
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
-              tempora eligendi, quisquam tempore sint reiciendis.
+              As a seasoned full-stack web developer, I bring a wealth of experience and expertise to the table, specializing in designing, developing, and deploying robust web applications tailored to meet diverse client needs. With proficiency in both front-end and back-end technologies, I offer end-to-end solutions that drive business growth and enhance user experiences.
             </motion.p>
           </div>
 
