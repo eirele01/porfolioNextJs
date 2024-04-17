@@ -20,37 +20,37 @@ const serviceData = [
   {
     Icon: RxPencil2,
     title: "Website Design and Development",
-    description: "I specialize in designing and developing responsive websites that captivate audiences.",
+    description: "",
   },
   {
     Icon: RxDesktop,
     title: "Custom Web Applications",
-    description: " I create custom web applications tailored to your unique requirements.",
+    description: "",
   },
   {
     Icon: RxCode,
     title: "Front-end Development",
-    description: "With my expertise I ensure your website or application offers a seamless user experience across devices.",
+    description: "",
   },
   {
     Icon: RxCode,
     title: "Back-end Development",
-    description: "I excel in back-end development using Node.js, PHP, MYSql and other frameworks to build robust server-side.",
+    description: "",
   },
   {
     Icon: RxArchive,
     title: "E-commerce Solutions",
-    description: "I specialize in developing custom e-commerce solutions that empower businesses to sell products and services online effectively.",
+    description: "",
   },
   {
     Icon: RxAvatar,
     title: "Website Maintenance and Support",
-    description: "I offer ongoing website maintenance and support services to ensure your digital assets remain secure, up-to-date, and optimized.",
+    description: "",
   },
   {
     Icon: RxAvatar,
     title: "Consultation and Collaboration",
-    description: "I believe in fostering collaborative partnerships with my clients, providing expert consultation and guidance throughout the development process.",
+    description: "",
   },
 ];
 
