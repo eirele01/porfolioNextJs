@@ -5,4 +5,10 @@ const nextConfig = {
   output: "export",
 };
 
-module.exports = nextConfig;
+// next.config.js
+
+module.exports = {
+  basePath: '/porfolioNextJs',
+  publicPath: '/porfolioNextJs/',
+};
+
