@@ -90,6 +90,7 @@ const ServiceSlider = () => {
 
             {/* arrow */}
             <div className="text-2xl">
+              href="#contact"
               <RxArrowTopRight
                 className="group-hover:rotate-45 group-hover:text-accent transition-all duration-300"
                 aria-hidden
