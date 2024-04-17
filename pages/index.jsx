@@ -32,7 +32,7 @@ const Home = () => {
             exit="hidden"
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
           >
-            👋 Hello! I'm [Your Name], a seasoned full-stack web developer with a passion for crafting innovative digital solutions. With four years of hands-on experience in the ever-evolving landscape of web development, I bring a wealth of knowledge and expertise to every project I undertake.
+            👋 Hello! I'm Eirele Joven Boter, a seasoned full-stack web developer with a passion for crafting innovative digital solutions. With four years of hands-on experience in the ever-evolving landscape of web development, I bring a wealth of knowledge and expertise to every project I undertake.
           </motion.p>
 
           {/* btn */}
