@@ -14,6 +14,12 @@ import {
   SiAdobexd,
   SiFramer,
   SiCanva,
+  SiJquery,
+  SiPhp,
+  SiMysql,
+  SiBootstrap,
+  SiTailwindcss,
+  SiMongodb,
   SiNextdotjs,
 } from "react-icons/si";
 
@@ -31,8 +37,14 @@ export const aboutData = [
         icons: [
           FaHtml5,
           FaCss3,
+          SiBootstrap,
+          SiTailwindcss,
           FaJs,
+          SiJquery,
           FaReact,
+          SiPhp,
+          SiMysql,
+          SiMongodb,
           SiNextdotjs,
           SiFramer,
           FaWordpress,
