@@ -63,6 +63,10 @@ export const aboutData = [
         title: "AMA of College Web Development Level 3 - Top Achiever",
         stage: "2020",
       },
+      {
+        title: "NAMEI Polytechnic Institute - Top Achiever",
+        stage: "2015",
+      },
     ],
   },
   {
