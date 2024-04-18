@@ -13,21 +13,21 @@ const testimonialData = [
     name: "Anne Smith",
     position: "Customer",
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+      "Working with [Your Name] was an absolute pleasure! We approached them with the ambitious goal of launching our own VPN business, and they exceeded our expectations every step of the way.",
   },
   {
     image: "/porfolioNextJs/t-avt-2.png",
     name: "Jane Doe",
     position: "Customer",
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+      "Working with [Your Name] was an absolute pleasure! We approached them with the ambitious goal of launching our own VPN business, and they exceeded our expectations every step of the way.",
   },
   {
     image: "/porfolioNextJs/t-avt-3.png",
-    name: "Jhon Doe",
+    name: "Jhon Ray",
     position: "Customer",
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+      "Working with [Your Name] was an absolute pleasure! We approached them with the ambitious goal of launching our own VPN business, and they exceeded our expectations every step of the way.",
   },
 ];
 
