@@ -13,21 +13,21 @@ const testimonialData = [
     name: "Anne Smith",
     position: "Customer",
     message:
-      "Working with [Your Name] was an absolute pleasure! We approached them with the ambitious goal of launching our own VPN business, and they exceeded our expectations every step of the way.",
+      "Working with Eirele Joven Boter was an absolute pleasure! We approached them with the ambitious goal of launching our own VPN business, and they exceeded our expectations every step of the way.",
   },
   {
     image: "/porfolioNextJs/t-avt-2.png",
     name: "Jane Doe",
     position: "Customer",
     message:
-      "Working with [Your Name] was an absolute pleasure! We approached them with the ambitious goal of launching our own VPN business, and they exceeded our expectations every step of the way.",
+      "Working with Eirele Joven Boter was an absolute pleasure! We approached them with the ambitious goal of launching our own VPN business, and they exceeded our expectations every step of the way.",
   },
   {
     image: "/porfolioNextJs/t-avt-3.png",
     name: "Jhon Ray",
     position: "Customer",
     message:
-      "Working with [Your Name] was an absolute pleasure! We approached them with the ambitious goal of launching our own VPN business, and they exceeded our expectations every step of the way.",
+      "Working with Eirele Joven Boter was an absolute pleasure! We approached them with the ambitious goal of launching our own VPN business, and they exceeded our expectations every step of the way.",
   },
 ];
 
