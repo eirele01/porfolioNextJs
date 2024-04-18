@@ -25,7 +25,7 @@ const workSlides = {
         {
           title: "title",
           path: "/porfolioNextJs/thumb3.jpg",
-          link: "http://example.com",
+          link: "https://pinoyinternethub.com/",
         },
         {
           title: "title",
