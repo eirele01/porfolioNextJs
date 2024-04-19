@@ -7,6 +7,7 @@ import {
   FaHtml5,
   FaJs,
   FaReact,
+  FaCpanel,
   FaWordpress,
 } from "react-icons/fa";
 import {
@@ -47,6 +48,7 @@ export const aboutData = [
           SiMongodb,
           SiNextdotjs,
           SiFramer,
+          FaCpanel,
           FaWordpress,
         ],
       },
