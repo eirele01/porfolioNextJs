@@ -20,14 +20,14 @@ const testimonialData = [
     name: "Jane Doe",
     position: "Customer",
     message:
-      "Working with Eirele Joven Boter was an absolute pleasure! We approached them with the ambitious goal of launching our own VPN business, and they exceeded our expectations every step of the way.",
+      "I had the pleasure of working with Eirele Joven Boter on a complex web development project, and I couldn't be more impressed with their expertise and professionalism.",
   },
   {
     image: "/porfolioNextJs/t-avt-3.png",
     name: "Jhon Ray",
     position: "Customer",
     message:
-      "Working with Eirele Joven Boter was an absolute pleasure! We approached them with the ambitious goal of launching our own VPN business, and they exceeded our expectations every step of the way.",
+      "Throughout the project, Eirele Joven Boter maintained open and transparent communication, keeping us informed every step of the way. They were responsive to our feedback and made adjustments promptly, ensuring that the final product met our specifications.",
   },
 ];
 
