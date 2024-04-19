@@ -20,7 +20,7 @@ const workSlides = {
         {
           title: "title",
           path: "/porfolioNextJs/thumb2.jpg",
-          link: "http://example.com",
+          link: "https://up.pinoyinternethub.com/",
         },
         {
           title: "title",
