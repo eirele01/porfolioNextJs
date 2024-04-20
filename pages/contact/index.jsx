@@ -15,6 +15,7 @@ const Contact = () => {
     const formData = new FormData(myForm);
 
     fetch("/", {
+      action: "https://getform.io/f/lbkmpxpb",
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: new URLSearchParams(formData).toString(),
