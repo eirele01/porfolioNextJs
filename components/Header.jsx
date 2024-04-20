@@ -11,7 +11,7 @@ const Header = () => {
           {/* logo */}
           <Link href="/">
             <Image
-              src="/porfolioNextJs/logo.png"
+              src="/logo.png"
               alt="logo"
               width={220}
               height={48}
