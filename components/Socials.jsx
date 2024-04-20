@@ -10,31 +10,18 @@ import {
   RiPinterestLine,
 } from "react-icons/ri";
 
+import { SiIndeed } from "react-icons/si";
+
 export const socialData = [
   {
-    name: "YouTube",
-    link: "https://youtube.com",
-    Icon: RiYoutubeLine,
-  },
-  {
-    name: "Instagram",
-    link: "https://instagram.com",
-    Icon: RiInstagramLine,
-  },
-  {
     name: "Facebook",
-    link: "https://facebook.com",
+    link: "https://web.facebook.com/joven.allcantra",
     Icon: RiFacebookLine,
   },
   {
-    name: "Dribbble",
-    link: "https://dribbble.com",
-    Icon: RiDribbbleLine,
-  },
-  {
-    name: "Pinterest",
-    link: "https://pinterest.com",
-    Icon: RiPinterestLine,
+    name: "SiIndeed",
+    link: "https://profile.indeed.com/p/eirelejovenb-nfs8mxs",
+    Icon: SiIndeed,
   },
   {
     name: "Linkedin",
