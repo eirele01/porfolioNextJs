@@ -76,23 +76,27 @@ export const aboutData = [
     info: [
       {
         title: "Freelancer - Full Stack Web Dev",
-        stage: "2020  -  2024",
+        stage: "2020  -  Present",
       },
       {
         title: "EncloakVPN - Full Stack Web Dev",
-        stage: "2023  -  2024",
+        stage: "2024  -  Present",
+      },
+      {
+        title: "Upload2Earn - Full Stack Web Dev",
+        stage: "2023  -  Present",
       },
       {
         title: "PinoyInternetHub - Full Stack Web Dev",
-        stage: "2022  -  2024",
+        stage: "2022  -  Present",
       },
       {
         title: "Briliant POS - Full Stack Web Dev",
-        stage: "2021  -  2024",
+        stage: "2021  -  Present",
       },
       {
         title: "BaganiVPN - Full Stack Web Dev",
-        stage: "2020  -  2024",
+        stage: "2020  -  Present",
       },
       {
         title: "Seafarer",
