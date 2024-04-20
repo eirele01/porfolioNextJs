@@ -6,6 +6,7 @@ import {
   RiFacebookLine,
   RiDribbbleLine,
   RiGithubLine,
+  RiLinkedinBoxFill,
   RiPinterestLine,
 } from "react-icons/ri";
 
@@ -36,9 +37,9 @@ export const socialData = [
     Icon: RiPinterestLine,
   },
   {
-    name: "Github",
-    link: "https://github.com",
-    Icon: RiGithubLine,
+    name: "Linkedin",
+    link: "https://www.linkedin.com/in/eirele-joven-boter-423b762b4/",
+    Icon: RiLinkedinBoxFill,
   },
 ];
 
@@ -53,7 +54,7 @@ const Socials = () => {
           target="_blank"
           rel="noreferrer noopener"
           className={`${
-            social.name === "Github"
+            social.name === "Linkedin"
               ? "bg-accent rounded-full p-[5px] hover:text-white"
               : "hover:text-accent"
           } transition-all duration-300`}
