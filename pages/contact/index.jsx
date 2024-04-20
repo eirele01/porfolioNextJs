@@ -14,8 +14,7 @@ const Contact = () => {
     const myForm = event.target;
     const formData = new FormData(myForm);
 
-    fetch("/", {
-      action: "https://getform.io/f/lbkmpxpb",
+    fetch("https://getform.io/f/lbkmpxpb", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: new URLSearchParams(formData).toString(),
