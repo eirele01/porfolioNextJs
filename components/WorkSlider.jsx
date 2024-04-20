@@ -14,22 +14,22 @@ const workSlides = {
       images: [
         {
           title: "title",
-          path: "/porfolioNextJs/thumb1.jpg",
+          path: "/thumb1.jpg",
           link: "https://bagani.me/",
         },
         {
           title: "title",
-          path: "/porfolioNextJs/thumb2.jpg",
+          path: "/thumb2.jpg",
           link: "https://brilliantpos.tech/",
         },
         {
           title: "title",
-          path: "/porfolioNextJs/thumb3.jpg",
+          path: "/thumb3.jpg",
           link: "https://pinoyinternethub.com/",
         },
         {
           title: "title",
-          path: "/porfolioNextJs/thumb4.jpg",
+          path: "/thumb4.jpg",
           link: "https://up.pinoyinternethub.com/",
         },
       ],
@@ -38,22 +38,22 @@ const workSlides = {
       images: [
         {
           title: "title",
-          path: "/porfolioNextJs/thumb4.jpg",
+          path: "/thumb4.jpg",
           link: "http://example.com",
         },
         {
           title: "title",
-          path: "/porfolioNextJs/thumb1.jpg",
+          path: "/thumb1.jpg",
           link: "http://example.com",
         },
         {
           title: "title",
-          path: "/porfolioNextJs/thumb2.jpg",
+          path: "/thumb2.jpg",
           link: "http://example.com",
         },
         {
           title: "title",
-          path: "/porfolioNextJs/thumb3.jpg",
+          path: "/thumb3.jpg",
           link: "http://example.com",
         },
       ],
