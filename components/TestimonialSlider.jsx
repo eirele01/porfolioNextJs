@@ -9,21 +9,21 @@ import "swiper/css/pagination";
 
 const testimonialData = [
   {
-    image: "/porfolioNextJs/t-avt-1.png",
+    image: "/t-avt-1.png",
     name: "Anne Smith",
     position: "Customer",
     message:
       "Working with Eirele Joven Boter was an absolute pleasure! We approached them with the ambitious goal of launching our own VPN business, and they exceeded our expectations every step of the way.",
   },
   {
-    image: "/porfolioNextJs/t-avt-2.png",
+    image: "/t-avt-2.png",
     name: "Jane Doe",
     position: "Customer",
     message:
       "I had the pleasure of working with Eirele Joven Boter on a complex web development project, and I couldn't be more impressed with their expertise and professionalism.",
   },
   {
-    image: "/porfolioNextJs/t-avt-3.png",
+    image: "/t-avt-3.png",
     name: "Jhon Ray",
     position: "Customer",
     message:
