@@ -75,6 +75,10 @@ export const aboutData = [
     title: "experience",
     info: [
       {
+        title: "Tensei Philippines Inc - Software Engineer",
+        stage: "2024  -  Present",
+      },
+      {
         title: "Freelancer - Full Stack Web Dev",
         stage: "2020  -  Present",
       },
